@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("MSTesting in User Registration Problem");
         }
     }
 }
