@@ -14,7 +14,7 @@ namespace UserRegistrationProblemMSTest
         public UCEightPattern(string password)
         {
             this.password = password;
-        }   
+        }
 
         public string ValidatePassword()
         {
